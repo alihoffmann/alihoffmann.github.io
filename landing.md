@@ -4,7 +4,7 @@ title: Ali Hoffmann
 subtitle: Learn more about me as a young professional and as a young adult
 hero_height: is-large
 hero_link: /page-1/
-hero_link_text: Example Call To Action
+hero_link_text: EXPERIMENTING
 show_sidebar: false
 callouts: example_callouts
 ---
