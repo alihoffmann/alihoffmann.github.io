@@ -1,49 +1,31 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: Ali Hoffmann
+subtitle: Learn more about me as a young professional and as a young adult
 layout: page
 callouts: home_callouts
-show_sidebar: true
+show_sidebar: false
 ---
 
-# Bulma Clean Theme demo website
+# A bit about me
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
+Hi! Welcome to my website (I'm excited to have a place to share my thoughts and experiences with you). I'm currently a student at Carnegie Mellon University studying Electrical and Computer Engineering. I love spending time baking (and cooking), hiking, and solving puzzles.
 
-[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
+## What I do @ CMU
 
-## Ruby Gem
+I would consider myself very involved on campus, I have held some form of a job since the spring semester of my Freshman year, and I've been involved with several organizations on campus.
+Strong Women Strong Girls, Fringe, SWE, WinECE, and Engineering Student Council.
 
-The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme)
+## Coursework
 
-## GitHub Pages
+I've taken quite a few courses at CMU. These are the courses I took in the Spring semester, and the courses I plan on taking in the Fall.
 
-The theme can be used with GitHub Pages bu setting the `remote_theme` in your Jekyll sites `_config.yml`
+## Work Experience
 
-```yml
-remote_theme: chrisrhymes/bulma-clean-theme
-```
+As I've grown, I have continued to try new things, and I'm excited to keep learning!
 
-## Instructions
+## Life
 
-For full instructions, please see the Readme at the GitHub repo:
-[https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md](https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md)
-
-## Page Layouts
-
-This demo site showcases the available page layout options.
-
-* Page With Sidebar
-* Page Without Sidebar
-* Page With Menubar
-* Page With Tabs
-* Page Without Footer
-* Page Without Hero
-* Page With Contents
-* Landing Page With Callouts
-* Blog
-* Post
+My goal is to spend more time discussing my hobies, mainly baking, and my beliefs and realizations from struggles and challenges in my life.
 
 ## Supported By JetBrains
 
