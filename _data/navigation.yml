@@ -19,6 +19,8 @@
       link: /landing/
     - name: Sponsors Page
       link: /sponsors/
+    - name: First course page
+      link: /_courses/intro_to_cs/
 - name: Products
   link: /products/
 - name: Showcase
