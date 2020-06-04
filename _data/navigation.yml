@@ -20,7 +20,7 @@
     - name: Sponsors Page
       link: /sponsors/
     - name: First course page
-      link: /_courses/intro_to_cs.md
+      link: /intro_to_cs/
 - name: Products
   link: /products/
 - name: Showcase
