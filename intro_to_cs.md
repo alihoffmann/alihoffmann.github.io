@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "18-213: Introduction to Computer Systems"
+layout: page
+title: 18-213: Introduction to Computer Systems
 [//]: date: 2018-05-28 10:50:07
 categories: Courses
 description: "Learn about my experience taking a computer systems course."
