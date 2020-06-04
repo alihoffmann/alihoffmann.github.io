@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 18-213: Introduction to Computer Systems
+title: "18-213: Introduction to Computer Systems"
 show_sidebar: false
 ---
-## I don't know why this is not working correctly,
+## 18-213
 # Course Content
 The goal of this course is to teach students how fundamental computer processes actually work.
 The course is broken down into the following areas. 
