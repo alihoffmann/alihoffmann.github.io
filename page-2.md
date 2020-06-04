@@ -1,13 +1,12 @@
 ---
 title: Page without sidebar
-subtitle: Demo page without the sidebar
+subtitle: Resume
 layout: page
 show_sidebar: false
 ---
 
-This is another sample page showing how a page can look without a sidebar. 
-
-To hide the sidebar, set the show_sidebar to false in the page's frontmatter
+Here I will experiment with 2 columns and writing down my resume so it can have 
+a bit more info here.
 
 ```yml
 title: Page without sidebar

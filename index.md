@@ -26,9 +26,3 @@ As I've grown, I have continued to try new things, and I'm excited to keep learn
 ## Life
 
 My goal is to spend more time discussing my hobies, mainly baking, and my beliefs and realizations from struggles and challenges in my life.
-
-## Supported By JetBrains
-
-JetBrains have kindly provided an Open Source licence to aid in the future development of Bulma Clean Theme.
-
-[![JetBrains](img/jetbrains-variant-4.svg)](https://www.jetbrains.com/?from=bulma-clean-theme)

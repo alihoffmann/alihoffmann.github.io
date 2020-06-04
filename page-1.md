@@ -15,3 +15,8 @@ subtitle: A demo page with a sidebar
 layout: page
 show_sidebar: true
 ```
+
+## Course Content
+
+
+# My opinions
