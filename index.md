@@ -6,7 +6,9 @@ callouts: home_callouts
 show_sidebar: false
 ---
 
-# A bit about me
+## THIS IS NOT WORKING WELL
+
+## A bit about me
 
 Hi! Welcome to my website (I'm excited to have a place to share my thoughts and experiences with you). I'm currently a student at Carnegie Mellon University studying Electrical and Computer Engineering. I love spending time baking (and cooking), hiking, and solving puzzles.
 
