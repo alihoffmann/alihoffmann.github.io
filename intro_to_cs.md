@@ -2,14 +2,14 @@
 layout: page
 title: 18-213: Introduction to Computer Systems
 <!-- date: 2018-05-28 10:50:07 -->
-categories: Courses
-description: "Learn about my experience taking a computer systems course."
+<!-- categories: Courses 
+description: "Learn about my experience taking a computer systems course." -->
+show_sidebar: false
 <!-- image: 'https://www.csrhymes.com//img/static-site-generator.jpg'
 published: true -->
-show_sidebar: false
 <!-- canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html -->
 ---
-
+## I don't know why this is not working correctly,
 # Course Content
 The goal of this course is to teach students how fundamental computer processes actually work.
 The course is broken down into the following areas. 
