@@ -3,7 +3,7 @@ layout: page
 title: "18-213: Introduction to Computer Systems"
 show_sidebar: false
 ---
-## 18-213
+
 # Course Content
 The goal of this course is to teach students how fundamental computer processes actually work.
 The course is broken down into the following areas. 
@@ -18,9 +18,11 @@ The course is broken down into the following areas.
 
 If you are interested in browsing the course contents more throughly, check the course website here: www.cs.cmu.edu/~213 .
 
-In this course, we mainly learned through labs where we built out cache simulators, memory allocators, proxy servers, etc. It is important to remember that this is an *introductory* course, so we built light versions of their contemporary counterparts.
+In this course, we mainly learned through labs where we built out cache simulators, memory allocators, proxy servers, etc. 
+It is important to remember that this is an *introductory* course, so we built light versions of their contemporary counterparts.
 
-These are the labs that were assigned in the course. I would love to share snippets of my code, but it would be an Academic Integrity Violation to publish that information :(
+These are the labs that were assigned in the course. I would love to share snippets of my code, but it would be an 
+Academic Integrity Violation to publish that information :(
 
 1. Data Lab
 
